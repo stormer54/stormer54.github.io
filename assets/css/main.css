@@ -3030,7 +3030,7 @@
 	#banner {
 		background-attachment: scroll,							fixed;
 		background-color: #666;
-		background-image: url("images/overlay.png"), url("../../images/banner.jpg");
+		background-image: url("images/overlay.png"), url("http://www.nordangliaeducation.com/resources/asia/_filecache/35f/78b/22733-cropped-w1366-h497-of-1-FFFFFF-nais-assembly--cropped--1366-x-497.jpg");
 		background-position: top left,						center center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
